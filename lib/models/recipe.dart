@@ -55,7 +55,7 @@ class Recipe {
 enum Difficulty { easy, medium, hard }
 
 class RecipeService {
-  static List<Recipe> _recipes = [
+  static final List<Recipe> _recipes = [
     Recipe(
       id: '1',
       title: 'Паста Карбонара',
