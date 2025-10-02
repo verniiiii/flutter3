@@ -79,7 +79,7 @@ class RecipeService {
       cookingTime: 20,
       difficulty: Difficulty.medium,
       category: 'Основные блюда',
-      imageUrl: 'https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?w=400',
+      imageUrl: 'https://avatars.mds.yandex.net/get-entity_search/10920629/1196148376/SUx182',
       isFavorite: true,
       createdAt: DateTime(2024, 1, 15),
     ),
